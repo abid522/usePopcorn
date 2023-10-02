@@ -3,6 +3,8 @@
 A react application for searching movies, rating them and addinng them to the watched list.
 It is based on the omdb API from which it gets the movie data.
 
+Try it [here](https://rateyourwatchedmovie.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
